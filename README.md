@@ -2,11 +2,11 @@
 2D UI Picking by OpenGL
 
 The element type:
-1. Button
+1. Button:
   button is a  white rectange
   click button to add a cube
 
-2. Cube
+2. Cube:
    a revolving pink cube
    click it to selet, then it will change to red color
    if you click it by right mouse button, the cube will be remove
