@@ -363,6 +363,7 @@ static void RenderSceneCB()
 
 	if (delete_model_index > 0)
 	{
+		delete models[delete_model_index];
 		models.erase(models.begin() + delete_model_index);
 	}
 	//printf("swap \n");
