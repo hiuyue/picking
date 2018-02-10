@@ -1,5 +1,5 @@
 # picking
-2D UI Picking by OpenGL
+3D UI Picking by OpenGL
 
 The element type:
 1. Button: 
