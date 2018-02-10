@@ -12,6 +12,6 @@ The element type:
   if you click it by right mouse button, the cube will be remove.
    
 How to use:
-1. run the picking_demo.exe, then it will run in a full screen mode
+1. run the picking_demo.exe in release directory, then it will run in a full screen mode
 2. control it by left and right mouse button
 3. any keyboard press can make it exit
